@@ -1,0 +1,24 @@
+{
+  "name": "new-workflow",
+  "version": "1.0.0",
+  "description": "My Web Workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmelville/new-workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "GULP"
+  ],
+  "author": "John Melville",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmelville/new-workflow/issues"
+  },
+  "homepage": "https://github.com/johnmelville/new-workflow#readme"
+}
